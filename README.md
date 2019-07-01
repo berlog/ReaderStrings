@@ -26,10 +26,10 @@ public class Main {
 	
 	
 	/**
-	 * Method return of collection strings and counters
+	 * Method returns the collection of strings and their counters
 	 * 
 	 * @param reader the instance of Reader object for get some next text
-	 * @return the map of string and counter
+	 * @return the map of strings and their counters
 	*/
 	public static Map<String, Integer> getMap(Reader reader) {
 		Map<String, Integer> map = new HashMap<String, Integer>();
