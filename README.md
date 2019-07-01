@@ -107,7 +107,7 @@ ORDER BY count(name) DESC LIMIT 5
 | Алим | 2 |
 
 
-P.S. Все необходимые файлы, в том числе sqlite база, а так же полный исходный код программы распаложен в корне [проекта](https://github.com/berlog/ReaderStrings/) на github.
+P.S. Все необходимые файлы, в том числе [sqlite база](https://github.com/berlog/ReaderStrings/blob/master/db_user.db), а так же полный исходный код программы распаложен в корне [проекта](https://github.com/berlog/ReaderStrings/) на github.
 
-P.S.S. Для просмотра исходной базы **sqlite** и выполнение скриптов можно воспользоваться 
+P.S.S. Для просмотра [исходной базы](https://github.com/berlog/ReaderStrings/blob/master/db_user.db) **sqlite** и выполнение скриптов можно воспользоваться 
 [DB Browser for SQLite](https://sqlitebrowser.org/)
