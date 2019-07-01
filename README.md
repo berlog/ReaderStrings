@@ -28,7 +28,7 @@ public class Main {
 	/**
 	 * Method returns the collection of strings and their counters
 	 * 
-	 * @param reader the instance of Reader object for get some next text
+	 * @param reader is the instance of Reader object for getting next text
 	 * @return the map of strings and their counters
 	*/
 	public static Map<String, Integer> getMap(Reader reader) {
